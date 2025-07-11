@@ -1,0 +1,1 @@
+# PHÁT TRIỂN PHƯƠNG PHÁP SỬ DỤNG LLM HỖ TRỢ PHÂN TÍCH MÃ ĐỘC TỪ DỮ LIỆU NHỊ PHÂN CÓ CẤU TRÚC VÀ NGỮ NGHĨA
